@@ -80,7 +80,7 @@ The **Bugema Open Source Community (BOSC)** empowers students and local innovato
 
 ## 📫 Let’s Connect
 - ✉️ Email: kmuwanga@bugemauniv.ac.ug  
-- 🔗 LinkedIn:  
+- 🔗 LinkedIn:  https://www.linkedin.com/in/kosea-erasto-muwanga-b08895401/
 - 🌐 Portfolio (optional):
 
 ---
